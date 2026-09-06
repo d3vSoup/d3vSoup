@@ -14,12 +14,22 @@ const souparno = {
   location: "Bengaluru, India",
   role: "CSE @ BMS College of Engineering",
   focus: ["Explainable AI", "Full-Stack Systems", "Competitive Programming"],
-  currentlyBuilding: "Pyxis — explainable fire-risk intelligence on 7.2M records",
-  competitiveRating: { codeforces: "Specialist (1470)", codechef: "3★ (1790)" },
   funFact: "Prefers reducing false positives over chasing shiny models",
 };
 
 export default souparno;
+```
+
+```bash
+$ fetch --dev
+─────────────────────────────────────────
+os        : Human.exe (Coffee-powered)
+editor    : VS Code
+languages : C++, Java, Python, JS/TS
+stack     : React · Node.js · MongoDB
+ml        : XGBoost · scikit-learn · SHAP
+uptime    : always shipping something
+─────────────────────────────────────────
 ```
 
 <picture>
@@ -73,76 +83,6 @@ export default souparno;
 
 <br/>
 
-## Featured Builds
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔥 Pyxis
-**Explainable Fire Risk Intelligence** · Databricks
-_Idea Lead & Data Engineer_
-
-Medallion pipeline turning 7.2M records across 5 datasets into a unified registry of 210,359 properties. Hybrid XAI ensemble (90% heuristic + 10% GBT with SHAP) avoids the 83% false-positive saturation naive ML weighting hits. Uber H3 geospatial indexing for real-time crisis-zone mapping.
-
-`Databricks` `XGBoost` `SHAP` `H3 Indexing`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔐 Attest
-**Cryptographic Audit Trail for AI Payment Agents** · Razorpay
-_Full Stack ML Engineer_
-
-XGBoost classifier for root-cause diagnosis across 4 failure classes — 92.6% AUC-ROC at 1.9ms inference. Fraud modeled as an SIR epidemic; Isolation Forest anomaly detection pre-anchoring hits 78.8% precision/recall. Decisions anchored on Polygon Amoy via 10:1 Merkle-batching, cutting on-chain volume 90%.
-
-`XGBoost` `Isolation Forest` `Polygon` `Merkle Trees`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📈 UpSyde
-**AI-Powered Investment Intelligence Platform** · Fidelity
-_Data Engineer_
-
-Full-stack markets platform built in 72 hours covering NSE, BSE, NASDAQ, and 100+ cryptocurrencies. AI BUY/SELL/HOLD signal engine with confidence scoring and Gemini-powered explanations, plus a 52-chapter financial literacy curriculum and a ₹10,00,000 paper-trading simulator.
-
-`React` `Node.js` `Gemini API` `FinTech`
-
-</td>
-<td width="50%" valign="top">
-
-### 🤟 Indriya
-**Accessibility Platform for Deaf & Blind Students** · SIH
-_ML/Full Stack Contributor_
-
-Real-time WebSocket broadcast translating spoken Hindi/English into ISL for India's 18M Deaf population. MediaPipe + XGBoost sign-classification for bi-directional signing, Groq Llama 4 Vision for board-OCR, and a browser-native virtual Braille keyboard.
-
-`MediaPipe` `XGBoost` `WebSockets` `Groq Llama 4`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## Achievements
-
-| | |
-|---|---|
-| 🏆 Codeforces | Specialist, max rating 1470 |
-| 🏆 CodeChef | 3★, max rating 1790 |
-| 🌐 IICPC Codefest Prelims 2025 | Top 3% globally (1,430 / 45,000) |
-| 🥉 HackBricks (Databricks × MIT Bengaluru) | 3rd Place, 500+ teams |
-| 🎯 Fidelity National Hackathon | Top 5 Finalist |
-| 🧠 Meta PyTorch Hackathon | Top 100 globally |
-| 🇮🇳 Decode SIH | Top 50 nationwide (15,000+ registrations) |
-| 🚀 GrabNGo (Canteen Startup) | Led MVP — 12,000+ orders in 48hrs, 50,000+ in a week |
-
-<br/>
-
 ## GitHub Stats
 
 <div align="center">
@@ -151,7 +91,7 @@ Real-time WebSocket broadcast translating spoken Hindi/English into ISL for Indi
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=d3vSoup&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=d3vSoup&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
