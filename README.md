@@ -12,7 +12,7 @@
 // whoami.js
 const souparno = {
   location: "Bengaluru, India",
-  role: "CSE @ BMS College of Engineering",
+  role: "DEEP DIVING INTO EVERYTHING ft. CSE n ML",
   focus: ["Explainable AI", "Full-Stack Systems", "Competitive Programming"],
   funFact: "Prefers reducing false positives over chasing shiny models",
 };
